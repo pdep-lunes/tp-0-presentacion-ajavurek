@@ -10,7 +10,16 @@ Avril Javurek
 
 **Sobre mi**
 --
-Mi nombre es Avril, tengo 20 años y este es mi tercer año en la facu.
+Mi nombre es Avril, tengo 20 años y este es mi tercer año en la facu. Algunas cositas que me gustan:
+
++ Las pastas y las franui
++ Pilates
++ La playa
++ Caminar,podría hacerlo por horas y a cualquier lado
++ Escuchar música y leer
++ Las sitcoms, mi favorita es friends
++ F1 (fan de ferrari) y el futbol
++ Pasar tiempo con familia y amigos :)
 
 **Foto**
 --
