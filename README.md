@@ -1,14 +1,14 @@
-#**HOLA!**
-
-##**Nombre**
-
+**HOLA!**
+==
+**Nombre**
+--
 Avril Javurek
 
-##**Legajo**
-
+**Legajo**
+--
 2224197
 
-##**Sobre mi**
-
+**Sobre mi**
+--
 Mi nombre es Avril, tengo 20 años y este es mi tercer año en la facu.
 
